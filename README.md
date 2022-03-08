@@ -1,5 +1,5 @@
  # Olá!:wave: Seja Bem-vindo!
- # Eu sou o Caio! Desenvolvedor Junior Front-end and Back-end. :computer:
+ # Eu sou o Caio! Desenvolvedor Junior Front-end & Back-end. :computer:
  
 
   <div style="display: inline_block"><br>
