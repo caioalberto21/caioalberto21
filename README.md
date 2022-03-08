@@ -1,5 +1,5 @@
 - <h1>👋 Hello, sejá bem vindo! </h1>
-- <h2> sou @caio, programador junior front-end e banck-end ! </h2>
+- <h2> sou @caio, programador junior front-end e back-end ! </h2>
 - I’m currently learning ...
 - 📫 caioalberto2104@gmail.com
 
