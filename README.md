@@ -24,8 +24,8 @@
   
 <div align="center">
   <a href="https://github.com/calbert0903">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calbert0903&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurymagano&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioalberto21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalberto21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <br/>
@@ -35,9 +35,9 @@
  </div>
  
  <div align="center">
- Quantidade de visitas no meu perfil desde: 15/10/2021 🕵️ <br></p>
+ Quantidade de visitas no meu perfil desde: 07/03/2022 🕵️ <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/calbert0903/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/caioalberto21/count.svg" />
 <div align="center">
 Obrigado e volte sempre 😄
 <div/> 
