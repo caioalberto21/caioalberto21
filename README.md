@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @caio
-- 👀 desenvolvo pequenos projetos em ruby on rails !
+- <h1>👋 Hello, I’m @caio</h1>
+- 👀 programador junior front-end e banck-end !
 - 🌱 I’m currently learning ...
 - 📫 caioalberto2104@gmail.com
 
