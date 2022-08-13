@@ -1,6 +1,7 @@
  # Olá!:wave: Seja Bem-vindo!
  # Eu sou o Caio! Desenvolvedor Junior Front-end & Back-end. :computer:
  
+ Sou apaixonado por aprender coisas novas e por tecnologia!
 
   <div style="display: inline_block"><br>
   <img align="center" alt="caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
